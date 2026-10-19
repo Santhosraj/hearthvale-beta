@@ -14,7 +14,8 @@ You're one of a handful of friends trying it early. Thank you! Expect rough edge
 
 ## Getting started
 
-1. **Sign up** with your email. Confirm it from the email you get (check spam if it's not there in a minute).
+1. **Sign up** with your email and confirm it from the email you get.
+   > **Can't find the email?** Hearthvale's emails (the sign-up confirmation and the password-reset code) often land in **Spam**, or in Gmail's **Promotions** or **Updates** tabs. Look there, and tap **Not spam** so the next one arrives in your inbox. The same goes for **Forgot password** on the sign-in screen.
 2. **Meet your household**: rename them, or keep the defaults.
 3. Enter the **invite code** I gave you. It's needed to set up your household.
 4. **Let them see what they need.** Each one asks for its own permission and says why. Everything is optional, and you can change it later in Settings.
