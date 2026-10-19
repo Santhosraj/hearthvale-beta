@@ -4,9 +4,13 @@ Hearthvale is a habit app with a household of five assistants who look after you
 
 You're one of a handful of friends trying it early. Thank you! Expect rough edges, and please tell me about them.
 
+## ⬇️ [Download Hearthvale for Android](https://github.com/Santhosraj/hearthvale-beta/releases/latest/download/hearthvale.apk)
+
+One tap downloads the newest version. Then open it and tap **Install**.
+
 ## Install (Android 8 or newer)
 
-1. On your phone, open the **[latest release](https://github.com/Santhosraj/hearthvale-beta/releases/latest)** and tap the `.apk` file under **Assets** to download it.
+1. On your phone, tap **[Download Hearthvale](https://github.com/Santhosraj/hearthvale-beta/releases/latest/download/hearthvale.apk)** (or open the [latest release](https://github.com/Santhosraj/hearthvale-beta/releases/latest) and tap `hearthvale.apk`).
 2. Open the downloaded file. Android will ask you to allow installs from your browser (or WhatsApp, Files…): tap **Settings → Allow from this source**, go back, and tap **Install**.
 3. If Play Protect says it doesn't recognise the app, tap **More details → Install anyway**. It's not on the Play Store yet, so Google hasn't seen it.
 
