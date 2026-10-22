@@ -33,6 +33,17 @@ One tap downloads the newest version. Then open it and tap **Install**.
 | SMS, notification access | Mira | Automatic money tracking from bank texts and payment apps (optional) |
 | Calendar | Liam | Today's events and meeting reminders |
 
+## 💻 Hearthvale for PC (Windows 10 or 11)
+
+The same household on your computer: a little island at the top of the screen with a focus timer, break and water reminders, and your tasks. It's free and optional.
+
+1. On your PC, download **[HearthvaleForPC-win-Setup.exe](https://github.com/Santhosraj/hearthvale-beta/releases/download/pc/HearthvaleForPC-win-Setup.exe)** and open it. It installs in a few seconds, needs no admin rights, and updates itself after that.
+   > Windows may say **"Windows protected your PC"** because the app is new. Click **More info → Run anyway**.
+2. On the PC, open Hearthvale's **Settings → Show a QR code for my phone**.
+3. On your phone: Hearthvale → **Settings → Your PC → Connect your PC → Scan QR code**, and point the camera at the code. (No camera? Tap **Type a code on the PC instead**.)
+
+On the phone, **Connect your PC** also has **Send the link to my PC**, so you don't have to type the download link. To disconnect a PC: Settings → Your PC → **Disconnect**.
+
 ## Make reminders reliable (important)
 
 Most phones stop apps in the background to save battery, which makes reminders late or silent. After setup:
@@ -65,4 +76,4 @@ Useful things to mention: what you did, what you expected, what happened instead
 
 ---
 
-The app's source isn't public. This page only hosts the installable APKs.
+The app's source isn't public. This page only hosts the installers (the Android APK and the Windows setup).
